@@ -1,0 +1,14 @@
+body {
+    background-color: lightpink;
+    color: lightcoral;
+    font-family: sans-serif;
+}
+
+h1 {
+    background-color:lavenderblush;
+    padding: 20px;
+}
+
+p {
+    color: lavenderblush;
+}
